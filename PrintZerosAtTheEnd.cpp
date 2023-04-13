@@ -1,4 +1,5 @@
 //Print zeroes at the end of array
+//Time complexity O(N), O(1)
 #include<iostream>
 using namespace std;
 
